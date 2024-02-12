@@ -1,0 +1,16 @@
+/* Add your own styles here */
+body {
+  font-family: Arial, sans-serif;
+}
+
+#tooltip {
+  position: absolute;
+  background-color: #f8f9fa;
+  border: 1px solid #ced4da;
+  padding: 10px;
+  display: none;
+}
+
+.bar {
+  fill: steelblue;
+}
